@@ -1,0 +1,886 @@
+CrowdStrike 20
+RT @DmitriCyber: Love the passion and mission focus of @Shawn365Henry! Video Message from Shawn Henry, Executive Assistant Director FBI: ...
+@CrowdStrike's @DmitriCyber on NPR talking about Iranian cyber threat https://t.co/1JRMAfHL
+RT @Shawn365Henry: Appreciated the chance to testify on cyber threat in front of House Committee yesterday - http://t.co/oWCk9wYM – Open ...
+RT @4lg0rithm: PSS9: keep a very, very close eye on Crowdstrike. they are putting together an all-star team to combat a new cyber-age. # ...
+RT @Safe_SaaS: #CrowdStrike focuses on bad guys! "...companies don’t have a malware problem, they have an adversary problem." http://t.c ...
+RT @josephmenn: And here's ex-Fed Henry's opening statement: CrowdStrike Services: My New Mission http://t.co/rCG6TWpk
+RT @George_Kurtz: FBI cyber expert joins private firm CrowdStrike.  http://t.co/cBZlznxM  <-this is a classic article
+RT @josephmenn: Departing FBI cyber chief Shawn Henry, tired of losing to hackers, joins @DmitriCyber and @George_Kurtz at CrowdStrike.  ...
+RT @nakashimae: Fmr FBI'er Shawn Henry, now w/ CrowdStrike: "it won't be USG'' to take cyber fight to adversary. http://t.co/ZrDh2pbM
+RT @raistolo: I had the pleasure of having @Shawn365Henry as a keynote speaker at #ISSA conference last yeart. Awesome hire, @CrowdStrik ...
+Check out video with @Shawn365Henry explaining why he left gov svc after 24 yrs to continue the mission at @CrowdStrike http://t.co/54sYBylj
+CrowdStrike proudly announces @Shawn365Henry, fmr. executive at FBI joining us as President of CrowdStrike Services http://t.co/t790enZr
+RT @Shawn365Henry: I am proud to join @CrowdStrike as President of the Services Division...a team with passion, vision, and energy to id ...
+RT @DmitriCyber: Great job by @CrowdStrike's Georg Wicherski RT @vierito5: Very nice talk by @ochsff about native Android exploitation # ...
+Have only best of the best at CrowdStrike! RT @_frego_ @ochsff did great and accurate talk yesterday Maybe best one so far at #hackito :-)
+RT @RSAConference: From #RSAC 2012: Hacking Exposed – Mobile RAT Edition ft. @DmitriCyber @George_Kurtz  http://t.co/MOQWXWnj
+RT @Adam_Cyber: Official #RSAC video of @CrowdStrike presentation including demo: http://t.co/lK8mjpR7
+RT @kaspersky: @kaspersky & @crowdstrike successfully disabled the second #Hlux #Kelihos botnet. Details here http://t.co/WLXVRHHd (via  ...
+RT @kaspersky: BIG thanks @CrowdStrike @DellSecureWorks @ProjectHoneyNet for their work w/us in disabling the 2nd #Hlux #Kelihos botnet...
+RT @dhoyt949: Bravo CrowdStrike!  110,000 PC-strong Kelihos botnet sidelined http://t.co/Gv7oqzFr via @CNET
+
+
+meuvestidopreto 20
+Você save o quanto de imposto pagou até agora? No total, mais de R$500 bilhões! Olha só: http://t.co/HMkI8XqQ
+Campanha: Movimento Hora de Agir! http://t.co/IXvFsAKA #post
+No MVP => OFF: O que vocês querem, meninos? http://t.co/194oxYZ9
+Já viram o que teve no MVP? Pesquisinha pra saber o que vocês querem, meninos? http://t.co/194oxYZ9
+OFF: O que vocês querem, meninos? http://t.co/194oxYZ9
+Respondam rápido: http://t.co/1ww8bZbO
+Meninos (e meninas): uma pesquisa rapidinha: http://t.co/1ww8bZbO - respondam pro feriadãode vocês ser lindo demais! <3
+Quero saber direitinho o que vocês querem no @meuvestidopreto, meninos! http://t.co/1ww8bZbO
+OFF: O que vocês querem, meninos? http://t.co/wWvxCVSR
+Pesquisa rápida pros meninos: http://t.co/194oxYZ9
+OFF: O que vocês querem, meninos? http://t.co/1ww8bZbO #post
+OFF: O que vocês querem, meninos? http://t.co/194oxYZ9 via @meuvestidopreto
+Tutorial: Você sabe como lavar e passar suas roupas? http://t.co/jM3vyQi5
+Vestindo: Como não ser uma mulher-cigarro? PARTE 2! http://t.co/5dV6NOMQ
+Tá Barato: Vestidos Pretos! http://t.co/nGRITh7j
+O que teve no MVP? Olha aqui! http://t.co/3efv5orr
+Tem um monte de coisa nova lá no http://t.co/JGh1FtFQ :)
+Já entraram no http://t.co/JGh1FtFQ hoje?
+Já foram lá no http://t.co/JGh1FtFQ hoje? Tem várias coisas novas!
+Tutorial: Você sabe como lavar e passar suas roupas? http://t.co/jM3vyQi5
+
+
+garethheyes 20
+RT @0x6D6172696F: And as a super-secret pre-release, here's @asintsov's @hackpra talk: http://t.co/qtPqTe9q #hackpra #domino #0day Enjoy :)
+RT @securityshell: RT @0x6D6172696F Here is the @hackpra video featuring @7a_: "Legal And Efficient Web App Testing Without Permission"  ...
+@ethicalhack3r Thanks
+RT @irsdl: Honored to announce SecProject Web Application Security Challenge 1 is live: http://t.co/YGckyHk3 #Break it and enjoy! #XSS # ...
+@ryancbarnett haha good luck with that :)
+@ethicalhack3r ...If it's really annoying though I'll fix it if you can be my tester
+@ethicalhack3r I have a old Mac in the cupboard somewhere but it is a PowerPC version so I wont be able to repro....
+@jake74 FACEPALM
+RT @jake74: Four? // #depressed
+Works with arrays too onerror=alert;throw[1]
+@sirdarckcat I wasn't aware of the whitelisting but prefetch seems like a bad idea to me CSRF from search results is just mental :)
+Check this awesome XSS technique out http://t.co/ifN1Cxne posted it before I forgot it. XSS without parentheses
+RT @mrdoob: The Physijs Jenga example is awesome! :D http://t.co/84FDzH4m
+Thinking about googles prefetch feature in Firefox.If you create a CSRF and add it to be indexed by google then you can CSRF from the search
+Weally? #EnglandManager
+@webtonull JS related? Opera did have off by one errors in unicode escapes
+@0x6D6172696F e.g. [{},{},[]]; won't call valueOf :( but [{},{}+1,[]]; will
+@0x6D6172696F valueOf won't be called in JSON since the object won't be directly accessed :( since you need to do an op on the obj
+@0x6D6172696F Yeah it is dead, the constructor isn't called on literal objects :( prototype setter is also gone in the main browsers
+/\s/.test('\u000D')&&!/./.test('\u000D') //true in standards false in compat
+
+
+lcavallaro 20
+RT @philo_quotes: To become truly great, one has to stand with people, not above them. ~ Montesquieu http://t.co/U9gFWB48
+RT @moxie: And the new Twitter for iOS includes certificate pinning, reducing the risk of MITM attacks as a result of compromised or bad ...
+RT @pedramamini: OpenSSL 0day by @taviso http://t.co/5BhuqlWM, found by @mdowd in 2006 https://t.co/tP04JKy1 and SSH is spared again via ...
+RT @kaspersky: The share of spam in email traffic averaged 75% in March - read our latest Spam report now! via @securelist http://t.co/D ...
+RT @angelodellaera: Thug is going to support DOM Events in the next days... stay tuned! https://t.co/ZTLyaCGF #thug
+RT @luigi_auriemma: how to kill "your" new Samsung TV remotely: http://t.co/iLnMGcSy
+RT @jjx: RT @chriseng: Don't use the LinkedIn mobile app on WiFi. It doesn't encrypt anything. #sourcebos <- YEP, same with many othe ...
+RT @ryanaraine: RT @codelancer Last night we sinkholed one domain of #Flashback. We can officially confirm size of the botnet – 500k+ in ...
+RT @virusbtn: The Blackhole exploit kit is 'patched' with a new Java exploit. Make sure your software is patched too http://t.co/mZ3SmFGy
+RT @kafeine: #Blackhole EK 1.2.3 CVE2012-0507 Confirmed : https://t.co/LuVLVydz In action here : http://t.co/SX5hw2b4 cc@fpaget
+RT @kaspersky: Duqu is back - The Mystery of #Duqu Part 10 http://t.co/kCQylz2x via @codelancer @Securelist
+RT @dinodaizovi: Awww... Mac OS X is all grownsed up and getting hit with targeted Word doc exploits by APT: http://t.co/lNblj0O9
+RT @SCmagazineUK: Microsoft takes down C&C servers to disrupt Zeus - SC Magazine UK http://t.co/pgnxIevL #botnet
+RT @virusbtn: McAfee reports that in 2012 already more than 200,000 malware samples were found with a valid digital signature http://t.c ...
+RT @quequero: Vulnerability analysis, practical data flow analysis and visualization: http://t.co/rQ9Ng2pr
+RT @travisgoodspeed: "Here we understand that security is a people problem." / "Yeah, your C people don't understand pointers."
+@paulsparrows sure, it looks really a lot like a nice movie plot, tho, mostly aimed at sensationalism (but just for the masses) ;-)
+RT @fcerullo: Millions of Barclays card users exposed to fraud - http://t.co/rYVixEtl / cc @mikko and Amazon not verifying cvv data...
+RT @teamcymru: Internet Enemies Report 2012 (PDF) http://t.co/rPYdriFy
+RT @vjt: ~ @lorisfichera check out @glguida's code implementing @numenta's cortical learning algorithms in C++ here: https://t.co/143CEz ...
+
+
+klout 20
+Top @RedBull influencers can get a one-year complimentary subscription to the #redbulletin! http://t.co/4YoZ5Gda
+@therealkings86 We apologize but this Perk is only for people in the United States.
+@shetold2friends We're sorry to hear that. Can you send our support team an email at help[at]klout[dot]com so we can look into this for you?
+Be one of @RedBull's top influencers and get a 4-Pack of the new Red Bull #TotalZero. 0 Calories. 0 Carbs. 0 Sugar. http://t.co/jTlMbHBN
+@ferrous Hi there, we use Twitter as your base account. If you'd like to switch Twitter usernames, you'll have to create a new account.
+Got Klout about Klout? Top influencers can earn exclusive @KloutPerks on our new brand squad page! Check it out: http://t.co/gmBqfeRM
+RT @KloutAPI: Klout is hosting a hackathon on May 12th-13th! http://t.co/mtFPTanh Join @Mashery, @Eventbrite, @Datasift and more for a f ...
+@omg_a_kitty Hi there, can you send us an email at help[at]klout[dot]com so our team can look into this for you?
+@_thewordsmith_ Thanks for the email. Our support team will be in touch in 1-3 business days.
+@lievans yep, one of our team members will be in contact with you in 1-3 business days.
+@lievans Hey there, sorry to hear that. Can you email our Perks team at help[at]klout[dot]com so we can look into this for you?
+@toytattleuk We're sorry to hear that. Can you email our team at help[at]klout[dot]com so we can look into this for you?
+@mountainsidemed Hi there, can you email our support team at help[at]klout[dot]com so we can look into this for you?
+'Influence combines personal importance, impact, and respect for opinions.' says Klout Star @sumaya http://t.co/qwYzUkdp
+@susankitchens Hey Susan, we're not adding any new topics right now but we're taking requests at help[at]klout[dot]com.
+@noelcristina Hey there, it looks like you already messaged us on Facebook about this. Our team will respond to you there!
+@y0koert Hey there, can you email our support team at help[at]klout[dot]com and provide us with a screenshot?
+@symalteria hey there, sorry about that. If you'd like us to look into this, please email our team at help[at]klout[dot]com.
+@amandap1126 Hi Amanda, it may take a couple of minutes to show. Looked into your account and "relationships" is one of your topics.
+@iamcolinspencer Hey Colin, please send our team an email at help[at]klout[dot]com so we can look into this for you.
+
+
+google 20
+Announcing the State Finalists for this year's US #Doodle4Google contest. Now it's your turn to vote for the winner! http://t.co/cK67Dr3W
+RT @googlemaps: You can now play Cube, a WebGL game on Chrome Experiments about Google Maps, at http://t.co/92h3LkTE - a WebGL enabled b ...
+In @FINSider, the story of @earthoutreach & how it helps organizations use our mapping tools "to save the world" http://t.co/J0eJFdCG
+Experience the web in language blends (Tagaloglish!) with the experimental Language Immersion extension for Chrome: http://t.co/DjG41NZr
+RT @gmail: Gmail now magically translates email written in other languages: http://t.co/4aqIE3Y5
+There's lots of data online. We're supporting journalists who research and report on it in innovative ways http://t.co/iSNFLbh9
+Our series of Big Tent events, on the hot button issues of today's web, continued in Moscow this week. Full recap here http://t.co/bn8FRU1O
+Nashville, U.S.A., known for its country music, is also a hotbed of entrepreneurship. Googlers report back on a trip http://t.co/eDkptUaO
+Fun fact: In a given day, Google Translate processes roughly as much text as you’d find in 1 million books: http://t.co/tlY8Cxyu
+RT @googlemaps: Jump into the map and view photo tours! 3D experiences that stitch user photos of famous landmarks around the world: htt ...
+Find the 5 q's businesses should ask to win on mobile in The Mobile Playbook. Check it out on your tablet http://t.co/c0ygkbqv
+What came after our 2011 Summit Against Violent Extremism? Find out how an extraordinary network came together. http://t.co/0hLx3G6f
+Congrats to the winner of our 2012 Google Photography Prize, Viktor Johansson!  http://t.co/fKRxtigC
+Visit http://t.co/rPGlvwZS from any device to get the best Google Search experience for desktop, mobile or tablet
+Introducing Google Drive—a place where you can create, share, collaborate & keep all of your stuff: http://t.co/dQ8ISTUF
+At 1pm PT, watch a live @googletalks Q&A w/ artist Dale Chihuly & his wife Leslie about new @ChihulyGG http://t.co/oXSjjU0t
+We geeked out for today's doodle in the UK: St. George's Day meets the 30th anniversary of the ZX Spectrum http://t.co/O67szCbg
+http://t.co/I3ExVwSp lets you watch & participate in the French presidential campaign in real time http://t.co/vpQeGWdq
+We're recognizing businesses that have mastered how to use @YouTube to drive growth http://t.co/Dzq3QldZ
+Take a virtual trip to Jerusalem, Tel Aviv-Jaffa & Haifa in Israel w/ new Street View imagery in @googlemaps http://t.co/L2ut3ChI
+
+
+Bitcasa 20
+RT @bigpeepz: I hadn't visited the @Bitcasa web portal for a few weeks. Holy sh!t those guys have done some amazing work!
+@Mr_Achievement @windowsphone No problem! More on the way!
+@rguerreiro Its the calm before the storm
+@NassimBojji No problem. Something amazing is on the way.
+@CeCeCheng Awesome! Infinite Friendship powered by Bitcasa :)
+@gorikain you sir are correct
+@LorenWohl Glad we could help out!
+@RogerPittman Web portal works on all devices for now
+@rsmoz Working on it! More surprises on the way!
+RT @Zazou999: @Bitcasa Love your service a lot for saving all my PC in infinite storage (Photos videos datas and others) Hope to rest in ...
+“@kylegray1: I Love this service, it is really handy to have for your computer; infinite storage.” Awesome!
+@kylegray1 Bitcasa will be $10 per month. Beta testers will get a handsome reward for helping us out!
+RT @CurlyFryTail: This is freakin' amazing. <3 http://t.co/tmAZSUWI via @Bitcasa
+@twodayslate Yes something like that. Details are coming soon!
+@Pedelcourt Thanks it'll be out soon- thanks for helping out in the beta!
+@james_brooks We're busy getting something awesome ready for you :)
+RT @agawish: @Bitcasa you kidding, I love it, and depending on it
+@agawish Awesome- we're glad you like it!
+@lumidubo No problem. Enjoy the Infinite Storage!
+@tmkilla You sure can! It will fast forward to where it left off! also make sure you upgrade. latest build fixes a lot of issues.
+
+
+cassiomelo 18
+4 musicas e um jam? nem esquentou ainda...
+Axl Rose salvo pela capa de chuva escondendo a barriga #rockinrio
+RT @alexodrosgomes: Oportunidade de emprego em start up na área de Educação http://t.co/q8Gwhve
+washing dishes while singing to my favourites rock songs #ordinarystillhappiness
+RT @Formula1_com: #F1 F1POLL: Retweet if you have seen The Senna Movie
+For god's sake someone take me out this boring class
+RT @SENNAmovie: @cassiomelo Hi Cassio, SENNA was premiered in France on 25 May - it has not received a wide release.
+Please @SENNAmovie do you have the date for its release in France???
+Windy afternoon and a mixing of smells from the street market at alesia
+I just finished watching @SENNAmovie for the 6th time. What an inspiring character!
+@brunomarroneweb seu irresponsável, se quer aprender a pilotar que o faça sem arriscar a vida de outras pessoas. Seu estúpido.
+Microsoft + Skype = The beginning of Terminator  http://t.co/EKN5jHY via @Digg
+now that Microsoft acquired Skype, my alternative to messenger, what IM should I use? #ms_stop_buying_my_favs_services
+RT @charroch: http://is.gd/P9EGKz quite well written article on the burka ban in France
+please answer this questionnaire: http://mad.home.soulsphere.org:3030/questionnaire/questionnaire for a good cause!
+Vaias ao STF pela anulação da lei ficha limpa em 2010. Por mais válidos q sejam os argumentos, perdemos uma chance de bofetear os corruptos
+@CTISolucoesemTI @Andre_Suporte Não, isso não é nada bom, vai inflar o n de faculdades e criar um gargalo enorme no crescimento do setor
+Bem-vinda à França, nuvem radioativa
+
+
+richardpbacon 20
+Live at the Olympic Park today ( deserving of  that showbiz pose). Jason Issacs. Adam Deacon. Comedy Dave for the Moan In. #5live
+Christ, the Javelin train from St Pancras to Stratford Int (the Olympics) - SIX minutes. I don't often get excited by trains but SIX minutes
+Am I a) at Tooting Lido or b) the Olympic Aquatic Centre? http://t.co/Wauyp06H
+@adamuytman cheers Adam. Good to see you.
+@LyndaM85 all the best
+Good: http://t.co/FC7NY3gU
+@LyndaM85 that's great. Tell Alex I'm so pleased my mate was watching my show. Sounds like he's been incredibly brave.
+@1AnnaStacey1 @tim_burgess I like you both
+“@C4HiddenTalent: There are plenty of tests you can take @ http://t.co/4Y4lYccf. #hiddentalent”
+Sure. The scarf was brave. If anything, you should salute my courage #Hiddentalent
+Hidden Talent ep2 tonight at 9pm on Channel 4. A guy who works in a tractor factory discovers a quite incredible artistic gift. Laterz.
+@DaveThackeray thanks Dave
+Look who's here:  http://t.co/lwdBBywT
+Look who's here:  http://t.co/nNILcOvT
+I'll be appearing on BBC Radio 2 (with @patrickielty) and 5Live simultaneously this aft at 2pm. But how? A magician need reveals his tricks
+@adamuytman @jamescracknell @patrickielty @bbcradio2 respect Adam.
+Tom Watson stop being so coy and bashful. Tell us what you really think.
+@FabianDeFabiani thanks
+@gilescoren how long you got left. Meant to give you some restaurant recomms
+On your radio with immediate effect: Matt LeBlanc. Miles Jupp. Lots of Roy H. + star of that doco I was banging on about (BBC3, 9pm tonight)
+
+
+noscoworking 20
+A Maria Cultura se despede. E Nós desejamos sucesso na nova casa!  @ Nós Coworking http://t.co/4DTDq15e
+Saiba como tirar fotos macro com o iPhone: http://t.co/BcN8Z8do
+Dica: Trabalhe por um tempo determinado: +- 1 hora. Depois comece a fazer pausas regulares. Deixe seu cérebro absorver o conteúdo.
+Prazo X Criatividade: http://t.co/rcTZApKU
+Street art na alemanhã
+Acabei de publicar uma foto  @ Nós Coworking http://t.co/Jgm2eJx6
+Sábado foi dia de rock por aqui, com @WannabeJalva e Stratopumas. Confira como foi: http://t.co/6stsiNBa
+O que motiva você? http://t.co/FSHRgB9U
+Conheçam o mais novo projeto desenvolvido pela Maria Cultura: http://t.co/ei38G7W5
+Veja um guia que apresenta Porto Alegre de uma forma bem organizada para você encontrar exatamente o que procura: http://t.co/6oTi4veV
+Falta pouco para os shows!  @ Nós Coworking http://t.co/SCZ1ol0L
+19h começam os shows aqui no Nós!  @ Nós Coworking http://t.co/TwEcRanv
+Galera do Wannabe Jalva se preparando pro show aqui no Nós  @ Nós Coworking http://t.co/rHmMkbIf
+Confira a música Simple Song da banda The Shins, com um clipe que parece filme: http://t.co/Vj3KUojU
+RT @kelifrois: Baita shows amanhã aqui na firma (@noscoworking): stratopumas + wannabe jalva http://t.co/5VhBzCKb
+Veja 10 dicas do prodígio @JonahLehrer para aumentar sua criatividade. http://t.co/w6ffK9zv
+Conheça o filme que retrata a história pouco conhecida na vida de dos grandes psicanalistas Freud e Jung. http://t.co/0Gy2RYgf
+Dica de estudo: Junte-se com outras pessoas e discuta sobre o seu trabalho. Além de obter uma visão de fora, você ainda treina o conteúdo.
+@NosCoworking está no livro Porto Alegre, Quem Diria, de Cláudia Aragón, com 50 dicas de serviços e produtos incomuns http://t.co/5QFD4B2E
+Balcão do Nós  @ Nós Coworking http://t.co/q37wlx27
+
+
+jerryjamesstone 20
+@bifnaked jumping!
+RT @bifnaked: Jump up and down! For no reason. #InnerChildReclaimations
+@reidrolls @michellebranch I understood the "Michelle Branch" words only. I hope there's no quiz!
+RT @MeanestBossEver: @jerryjamesstone giving the best man toast. Well done! http://t.co/9rAANELf
+@StevePollak way yummy!
+Eco #Wine Review: Frei Brothers Reserve 2008 Alexander Valley Cabernet Sauvignon with CEDAR, DARK FRUIT AND TOBACCO http://t.co/0iwo1bIT
+@gguild that could work!
+@gumbinator bummed I missed out on smores
+RT @biofriendlyblog: IBM developing air-breathing EV battery http://t.co/pnbkhrfz #digg via @rufioho @leftlanenews
+@EmilyLong24 awesome! So glad to hear that.
+@DavidBHaughton and @johnshih practicing the ribbon bondage before the wedding http://t.co/g2Rx05OA
+@eatthelove @allison_d how are they?
+@MeanestBossEver Yes!!!
+The #bride looks so beautiful http://t.co/ur8P5o2c
+@wiieb :-*
+@Starryknight22 @johnshih thanks!
+Getting hitched? Get @meaghanschmaltz for your wedding planner! She's making @johnshih's wedding run super smooth.
+The groomsmen are ready for @johnshih's wedding! http://t.co/62sh2nYn
+@Insane_layne2 @TheJerrys ha
+Check Out This High School That Looks Like Millennium Falcon http://t.co/YbcaRdiJ #starwars http://t.co/nTHxRaAX
+
+
+CDNews 20
+CDN Pics: 2012 May Day March for Immigrants and Workers http://t.co/l9CI6Nhj
+At the Federal Building for a rally on 2nd Ave. http://t.co/5ZrBLvwe
+March about to cross under Yesler. http://t.co/Dc6uDmDO
+Turning on 4th now. Energy is ramping up as the march heads downtown. http://t.co/JyOfIOLw
+A sea of people entering the ID. http://t.co/p5A1BOjk
+March approaching 12th now. Leaving usual CDNews coverage zone, but we'll keep following it. http://t.co/L0u4ZxGP
+RT @jseattle: Per radio, SPD estimates May Day march from Judkins at around 2k people. @CDNews is covering the annual and typically peac ...
+The crowd headed down Jackson. Many blocks full of people. http://t.co/dVNl49Lk
+Headed down Jackson now. http://t.co/53SSObzl
+March under way. Headed toward Jackson. Huge crowd. http://t.co/x1W3vwrv
+May Day March for Immigrants and Workers about to get started. At 20th and Lane: http://t.co/2eF7Kd7a
+@TougoCoffee Cool! Let me know the details when you get 'em figured out.
+The 5pm march will be outside "restricted area" until it reaches downtown. “@jseattle: Proclamation of civil emergency http://t.co/qkbyFwau”
+RT @jseattle: Mayor is issuing an order to authorize police to seize items that can be used as weapons
+Reminder: Annual May Day March for Immigrant & Workers Rights starts near Judkins Park. Rally at 3:30, march at 5. http://t.co/QnmUIXgS
+President Obama's re-election headquarters for Seattle Coming to Jackson Place http://t.co/ENk75M6Z Launch party Thursday w/ @JayInslee
+Business at 16th and Jackson says their windows have been broken 3 times in the past month: http://t.co/6YYsJl7L Anyone else having issues?
+.@MyNeighborLady is open at 23rd and Union http://t.co/0ZyYRY0Q
+RT @NAACPSeattleKC: Join us today for the May Day rally/march for immigrant & workers rights. 3:30pm at St. Mary's Church (611 20th  ...
+@leelefever Yes. http://t.co/XllsRWEs
+
+
+DohaFilm 13
+Announcing a FREE screening of "Take Shelter" @KataraQatar exclusively for social media friends! Reserve your tickets! http://t.co/oQ4lOhy4
+Time to test your film knowledge! We just had a fire drill and, of course, got onto the topic of movies with fires! What can you name?
+In this #PeopleInFilm we speak with Masoud Amr Allah, Artistic Director of @DubaiFilm
+@SaadKad @TasnimHindeyeh Will update you as soon as we have more information.
+Gotten your tickets to see "Take Shelter" at @KataraQatar yet? It's one of the best-reviewed films in years! http://t.co/6SdBzxm4
+Here's our second look at @MEFCC! One event, two viewpoints!
+@SaadKad @TasnimHindeyeh So sorry to hear! The they were sent out long ago to the involved university, which then was supposed to contact
+RT @micasso: Wow! Finally! “@DohaFilm: we are proud to present the MENA premier of the Academy Award winning "@TakeShelterFilm. http://t ...
+Remembering Ayrton Senna, killed on this day in 1994. We were deeply touched by Asif Kapadia's doc "Senna" at #DTFF11. http://t.co/gbpy5iZe
+1st of a series by our social media team examining things from differing viewpoints: @MEFCC. Stay tuned for another! http://t.co/kRZ3meMc
+@AlysonGaharan Glad to hear it, Alyson. Best of luck!
+@TribecaFilmFest has wrapped up for the year!
+From Tribeca we examine “The List,” not only the documentary, but the good the filmmakers & star are doing in Iraq. http://t.co/5Tp8qFtE
+
+
+DocGeeks 20
+WorldView and Sundance Institute announce winners of their Documentary Film Program: http://t.co/6FK4QtUA
+Some good docs screening in London cinemas today: Buck, MARLEY and Being Elmo - more info here: http://t.co/FhuReuRH
+Here's the latest review on the new @priceofkings #documentary on Shimon Peres http://t.co/9sIsz63K (You can stream the first from our site)
+SundanceNow Launches Subscription Documentary Club for Errol Morris Fans Everywhere http://t.co/xgLti8lU
+Kim Longinotto women only screening Rough Auntie & Q & A @BaytreeCentre! http://t.co/LcTvEEjD #breadandroses
+Go see the #documentary @beingelmo today - there are loads of one off screenings! Cinemas: http://t.co/iWo1asnP Review: http://t.co/fIBohl5s
+Thanks to @thedochierarchy, here's our review of the new @priceofkings #documentary on Shimon Peres http://t.co/9sIsz63K
+We love documentaries http://t.co/vRPAb0Ea
+ReThink Interview: Ondi Timoner -- On Tech Startups and the Documentary Renaissance http://t.co/3TkO4PPc via @HuffPostEnt
+Oscars' New Documentary Rules Can't Kill DocuWeeks http://t.co/RWqSignb  via @TheWrap
+Cheers for this! Get your #docs in for 30 May! RT @charlottecrofts this looks good: @ANDfestival call for submissions http://t.co/vQKDhxRT
+Don't miss the @indiegogo London Meet Up this Thursday with @gogoslava! http://t.co/F3vYQWx3 #documentary #crowdfunding
+On in cinemas today: MARLEY, Being Elmo, Inside Job, They call it Myanmar, Capitalism; A Love Story & Buck http://t.co/FhuReuRH #documentary
+Wow - after the trailer and @hotdocs reviews I can't wait for @pingpongfilm to come to London! Check it out: http://t.co/U2Ury9Bj
+Had a nice meeting with @lidf yesterday. Really looking forward to the festival in May - great #documentaries, great venues.
+RT @IDANews: Disagreements are an inherent and productive part of the working relationship of doc filmmaking teams, says @NYTimes http:/ ...
+In case you haven't seen Europe's Last Dictator - here's more info:    http://t.co/sy8EgSZP. #documentary
+RT “@headlinexplorer: Horrified to hear people detained by KGB at screening of #EuropesLastDictator in Minsk tonight.”
+Minsk police raid Europe's Last Dictator #documentary screening by Free Theatre & arrest 20 people
+Sundance #documentary review: Shut Up and Play the Hits http://t.co/tGxkbKka #LCDSoundsystem
+
+
+Diggnation 20
+RT @Revision3: Diggnation Finale Part 1 is LIVE! Thanks for all your patience and the amazing run. Stay tuned for Part 2 next week! http ...
+@Andrew__Reyes @youtube thanks for all your help!
+Thanks to all who came out to the Diggnation Finale! We had a blast w/ you & can't wait to begin releasing all the antics, starting Jan 9th!
+Diggnation Episode 338 is now live and it's a damn funny one too. Sorry for the delay in release.
+Hey all, episode 336 will be released tomorrow morning instead of tonight. Apologies on the delay.
+Happy Holidays! Click on over to our revamped store at http://t.co/TJrgjvHt - buy 2 items and get free shipping! Offer ends December 9th.
+Hippie Glenn has left the nest! Check out @glennmc's Toasted Donut http://t.co/2Osg1m6y
+Diggnation 332 will be posted tomorrow morning instead of late night tonight. Thanks for your patience.
+I've watched about 7 Walter Isaacson interviews in the past 2 days about Steve Jobs without even really seeking them out all that much
+RT @dlprager: Secure your spot at Diggnation's Finale in LA!  http://t.co/SF6pQguM - Please send thoughts & feedback here: http://t.co/4 ...
+RT @dlprager: My blog post on @Revision3 about the retirement of @Diggnation: http://t.co/qaiRkWBv
+RT @Revision3: And here it is! New @Diggnation all about what the iPhone5 MIGHT look like... and Google's latest shopping spree: http:// ...
+Check out some fun behind the scenes footage from the @revision3 live show during Comic-Con last month by @glennmc http://t.co/5qKcgbV
+Hey guys, just want to send out a heads-up that this week's Diggnation will be releasing tomorrow (Wednesday).
+About to shoot episode 316 this afternoon in San Francisco from Milk HQ. Next week from Comic-Con! http://t.co/oZQk6dn
+RT @iTunesPodcasts: On @Diggnation, @kevinrose speaks out about the idea behind Oink, the first app from his new company, Milk: http://t ...
+diggnation episode 313 is now live! www.diggnation.com
+http://t.co/JrkpB00
+RT @jayadelson: Haz-Mat fun with @dlprager! http://t.co/ktzAzLP
+Operation urishiol acquisition underway this weekend for @kevinrose's tattoo removal experiment. Stay tuned here for behind the scenes.
+
+
+antoninocencio 20
+Pegando emprestado uma frase do Fred04 (Mundo Livre S/A) no seu Manifesto do Mangue, "Carangueijos com cérebro" - http://t.co/QhmkJY2t
+There are 46 339 720 Facebook users in Brazil. Check it out on  http://t.co/9pVcgPs5 via @socialbakers
+"If you are doing the startup game for money, you are in for a plate full of frustration. It must be for the love of the game."
+Luan Santana na festa da CUT em SP (e muito mais). Quem pagou essa conta? Nós.
+Dizem q não é bom ser o n.1, mas vir logo em seguida e fazendo melhor! RT @jack You don't have to do it first, you just have to do it right.
+Equipe gigante! RT @jack Square in suits and classy dresses. http://t.co/H1ZgbTXf
+Fanpage da Tele Sena: https://t.co/Sy4ZpcXN #sinaldostempos
+Matéria sobre Yuri Milner, russo que investiu na Zynga, Groupon, Face e só compra (em média) de 1 a 2% das empresas. http://t.co/JzQeOuX8
+Como é que o "Jornal Brasil 247", que foi criado só p/ web, cai por conta do 'aumento de acessos'!? São online, mas não cuidam da sua infra?
+Boston's next 10 tech IPOs? http://t.co/xxH49xqR "Anônimos". Tem empresa que faturou $500MM em 2011.
+Pelo 6º ano consecutivo, Recife recebe o maior evento de artes cênicas do país. Promovido pelo SESC.... http://t.co/SzlXhn7H
+Gostei do que Jael falou. Nem o melhor atacante do mundo consegue jogar nesse esquema de Mazola! Zero condições.
+Matador. http://t.co/bkHG2sFq
+App muito bom e promissor esse 'Thoughts' da Jawbone. Tipo um 'whatsapp' de voz.
+Roubaram o cel dele ontem. RT @lmaranhao @leozeba me manda um fone pra eu te ligar zebinha. Tentando te ligar mas nao consigo.
+Quero uma. http://t.co/XYxCv2l0
+Dublin, Manguezal, PE http://t.co/Eo9I7BRh
+Bora @leozeba! E hoje, vai rolar!?
+Verdade.RT @frednavarro Esquerda e direita foram "inventadas" em 1789 e ainda brigam de dia. À noite, elas tomam uísque e dividem os lucros.
+RT @DrBusca: “Um dia sem rir é um dia desperdiçado” - Charles Chaplin http://t.co/zbd3WLK2
+
+
+evdokimovds 20
+@gal_diskin it is a pity...
+pinpy - Python bindings for PINtool (http://t.co/CGT56lyU) #DBI
+RT @Rogunix: SyScan 2012 Singapore slides http://t.co/OJZzRBoR
+@4ekin @_chipic say JD = Java decompiler)
+@ontrif @neyolov You play with fire)
+@MarioVilas ok. I will correct it.
+Update! "Python arsenal for Reverse Engineering" whitepaper (ver. 1.1) add 7 new projects (50 projects) http://t.co/WMu5kWvn
+RT @ABazhanyuk: CERT/CC Blog: CERT Linux Triage Tools 1.0 Released (!exploitable now available in gdb): http://t.co/9xQ5GYtK - use in fu ...
+RT @alisaesage: COM Hijacking, or DLL Hijacking Come Back #reversing #vulns http://t.co/UwYY9fEH
+RT @djrbliss: My SOURCE Boston slides, "Android Modding for the Security Practitioner": http://t.co/03TQeSGZ
+RT @_chipik: How to generate virtual traffic jams on maps http://t.co/tplkdvfM
+@addconf @andreycha a wise decision)
+RT @Immunityinc: Hack Cup 2012 registration is open! http://t.co/9bvuAOW1
+RT @richinseattle: New blog post on prototyping mitigations with DBI up along with slides from ISSW2012 and a google code project http:/ ...
+RT @SecurityXploded: API Call Tracing - PEfile, PyDbg and IDAPython by Amit Malik http://t.co/N3drusav
+Very cool show & Toolbag plugin from @aaronportnoy and @drraid on @HackitoErgoSum )
+RT @virlab: ????????? ?? #HES2012 ????????? @NTarakanov ? @ABazhanyuk ? "The System of Automatic Searching for Vulnerabilities" http://t ...
+RT @HackitoErgoSum: Live streaming at Hackito Ergo Sum : http://t.co/zuytHVw6
+RT @fjserna: CVE-2012-0769 the case of the perfect info leak: http://t.co/mmwnhN64
+@matrosov @vxradius congrats!
+
+
+BBJNewsroom 20
+Arnold wins American Eagle Outfitters ad biz | http://t.co/D6seIz05
+Morning Buzz--> Hamilton Thorne logs 15% sales increase | http://t.co/7bi9tFk1
+Morning Buzz--> Berkshire Community names 3 presidential finalists | http://t.co/p9O7YwWM
+Morning Buzz--> Bank of New England buys back Meadow Creek http://t.co/WTwbLc0g
+Groundbreaking for Boston’s Innovation Center http://t.co/rvx2dyee
+RT @iganot: Be sure to follow me at my new account @gazelle_CEO. Thanks!
+RT @BusinessWire: Boston #PR folks, come meet the media w/@GeoDonnelly @WestBostonPatch @BosHerald_Biz @don_seiffert 5/3: http://t.co/UU ...
+Business confidence up in April |  http://t.co/HTNNtJFv
+Medical Investment Group files for bankruptcy protection |http://t.co/fznoPxtc
+RT @KyleAlspach: Startup Q&A: Short-video messaging startup @Vsnap http://t.co/AhyIbUwA
+Harvard named No.1 for social media use among colleges http://t.co/PLqXRbgK
+Iron Mountain allegedly struck by theft of $1.1 million | http://t.co/sa3V4a4E
+Affiliated Managers profits fall, assets rise | http://t.co/05WYr02w
+In brief - KPMG to open Cambridge Innovation Center office, 3 Russian startups advance in MassChallenge judging | http://t.co/XJh3Bkk1
+9 more tech #IPO candidates in #Boston (by @KyleAlspach) | http://t.co/qalPDu3x
+Morning Buzz--> AMG's Healey sees pay slip in '11 | http://t.co/5vAmb2bx
+RT @ScottKirsner: .@bbjnewsroom speculates about  Boston's next 10 Tech IPOs (in a slide show, of course): http://t.co/gKwKgtH5
+@ScottKirsner of course!
+Morning Buzz--> Average 401(k) balance grew 62% since '09 | http://t.co/6CODKzAE
+Morning Buzz--> Port cities band together to boost economy http://t.co/XM7spuJ0
+
+
+multitaskgirl 20
+Vamos correr? Primeiro, saiba escolher o melhor tênnis e roupa! http://t.co/MfuNVVPx
+Olha a postura, menina!  http://t.co/F543IyAd
+Quero mudar! http://t.co/58tHW3JF #post
+Feliz Ano Novo! 2012, vem com tudo (de bom, por favor!) http://t.co/XLakcHyR
+Um feliz natal pr'a todos, mas em especial pr'a minhas mamães: @CatarinaMoro e @luizelacerda!
+esse é o ~nunca fui santa~ da Risqué risque "@CatarinaMoro: a cor da @multitaskgirl http://t.co/bckIca9I"
+É festa bebe! http://t.co/FPJYw8RO
+@luizelacerda meninaaaaa... vou mandar por DM pera
+hoje tem post de lingerieeeeeeeeeee! tô nua, gente! http://t.co/agoM4wKq
+Eu não sou obrigada. http://t.co/t36RNg1f
+multitask  que é multitask dorme planejando o próximo dia!
+Sou de Recife e é pra cá que a #OxenteBox do @OxenteMenina está vindo! kingo.to/UIl
+Sou de Recife da sua cidade, e é pra cá que a #OxenteBox do @OxenteMenina está vindo! kingo.to/UIl
+@sigaimaginarium @SegredoVitorio @giftex @voucomprar @lojaHmmm @mpresenteira olha vocês aqui: http://t.co/GzY44MDu #post
+de dar presente também! :) RT @luizelacerda: já viram isso? http://t.co/nEDCdFkh (via @multitaskgirl)
+Hoje to que to, 3 post fresquinhos de uma tacada só! e já já entra a receita que a @CatarinaMoro de sanduíche natural  \o/
+a/c @aline_lira e @absurdona http://t.co/nEDCdFkh <3 Lojas fofas para vocês!
+“@meuvestidopreto GALERA, PRA PARTICIPAR DO SORTEIO DOS KITS SEDA, PRECISA PREENCHER O (cont) http://t.co/eiLDavUX
+“@meuvestidopreto #ParabensMVP! Quero ganhar presente da @SedaOficial no aniversário do @meuvestidopreto! http://t.co/z7F0izDx”
+Social Média - Bar da Pauta http://t.co/uxAtfO99 #Post
+
+
+DailyBowser 20
+Hang in under a chair with @anurse @SiebeTolsma @thegotmac @anthonymjohnson @PatientSamurai http://t.co/tMgV1AdA
+Park memories. http://t.co/uRtkO1Rx
+I'm totes ready for bed. Really.. http://t.co/4wJJzfkm
+@imJenHan @wheel82 @mikeypage10 that's me!
+RT @imJenHan: @wheel82 @mikeypage10 cause he is so darling! http://t.co/b8Wl3cDv
+@mikeypage10 weeeee! http://t.co/iQp7Xdpo
+I want to taste your face! cc: @beipas http://t.co/ZzJm6eAI
+@ericvchan makes me super cuuuuuuute http://t.co/Z5kFQXi7
+@ikbc @beipas @wheel82 lol yeah. Hrs getting to be a real dog now. At least in size
+I sense happiness is coming. http://t.co/oNRZwWSV
+So I decided to vogue http://t.co/JQkqPX5h
+My person is sick. So I will be extra cute and hold my pees for longer than usual. http://t.co/mS7exIzq
+@beipas COOKIE! http://t.co/XMaPas3d
+@beipas happy birthday puppy friend! You has cake??? http://t.co/yaXfKHWI
+@ericvchan @beipas @kyashisue @nammerik @imJenHan haha you're welcome to come. Ask Ann. I mean.. i don't know. I'm a dog =D
+@KyashiSue @nammerik @beipas are you prepared to step in my peee??! I'm so excite.
+@imJenHan I'll come visit you. i'll hold you captive until @ericvchan finds a Fire Flower. It'll be fun, we'll play catch :3
+@kid814 touch my bum.. it's suuuper soft
+..soaring tumbling free-wheeling on a magic carpet RIIDE! http://t.co/KSKRrR9e
+Look at my butt! Not his butt.. he has no tail. http://t.co/LPZg5r4F
+
+
+frohiky 20
+RT @bisleya: O Homem Duplicado, de José Saramago, vai ser adaptado para o cinema http://t.co/fZ6QQBVX
+:-(
+RT @jafonso: Google Ventures Has $1 Billion To Invest And It Likes Big Data Startups (GOOG) http://t.co/z447SLP8 #tech
+@fcancio :D
+http://t.co/dT1dcbfz
+RT @Publico: O novo rei de Barcelona: Messi, autor de 234 golos http://t.co/3I8jbGsu
+Kleber..... #fcp
+orbeon forms....i like i like
+working on Orbeon Forms...
+Code that...if you know what I mean... http://t.co/onFlQSyf via @9GAG
+I just keep gettin' killzoned.... http://t.co/CTLDp7C0 via @9GAG
+Sencha Touch: lazy loading!
+space invaders: If remember this you're awesome! http://t.co/enXuYnxk via @9GAG
+Programming, Motherfucker http://t.co/JUl9cyTc via @feedly
+9GAG - Keep Calm and Code On http://t.co/sBXwGa6Z via @feedly
+I want to play a game... http://t.co/zDVOdQot
+Pés Frios | doismileoito http://t.co/C4SNVkD5 via @feedly
+buzz is dead....
+http://t.co/KuXfUFbx Pois....
+http://t.co/uVgjhyTI Sencha Touch 2.0: Dev Preview....looking good :) the performance issue...nice :)
+
+
+LeddHQ 20
+RT @Gyabbo: No Gyabbo!  http://t.co/AomikGx5 - Confira em detalhes exclusivos  e comentários dos vencedores do prêmio Ichiban Brasil 3!
+Post novo no site!: Medalha de Bronze no Ichiban Brasil 3!!! http://t.co/nVDyl0iA
+E ficamos emn terceiro na categoria Melhor Lançamento no Prêmio Ichiban Brasil 3, na frente de muita gente boa! :) http://t.co/4542LG3X
+RT @blogpauloramos: Votação para o Troféu HQMix deste ano termina na meia-noite do dia 1º de maio. Entrega será em 30.06, em SP.]
+I'm now ranked Elite in Yesterday on Raptr! http://t.co/pCsV41fV
+Já que o @di_benedetto acertou, lá vai: todos os títulos são tirados de alguma parte do texto do episódio. Menos o primeiro.
+RT @JMTrevisan: A quem possa interessar: estou letreirando as primeiras 6 páginas do Ep. 07. Estão a lápis ainda.
+RT @JMTrevisan: Eu, q sempre fui tão ruim de título, ando bem orgulhoso dos q ando colocando em LEDD. Mas sigo uma regra. Alguem sabe qual?
+RT @di_benedetto: A capa do Vol.2 de @LeddHQ tá em sincronia total com o arco de história atual http://t.co/ACLKfbNd Muito boa.
+P/ quem nao viu. O porque da demora, LEDD no HQ Mix e o lápis da capa do vol. 2! http://t.co/90G55zOU
+O porque da demora, LEDD no HQ Mix e o lápis da capa do vol. 2! http://t.co/dgmEqL2G
+Aeee...finalmente alguem disse algo :) RT @thiago7miranda: A arte do @LoboBorges é foda d+
+E aí? :)
+Post novo no site!: Preview - LEDD Vol. 2 - Capa (lápis) http://t.co/vQcYpi4x
+Ok, vamos ver se tem alguém online. Me ajudem a decidir o próximo post: vcs querem a capa a lápis ou uma pagina colorida de preview?
+Post novo no site!: LEDD no HQ MIX!!!! http://t.co/hiSWeEXm
+Post novo no site!: Se você pensa que nós fomos embora... http://t.co/fRDq8jeA
+RT @LoboBorges: A capa do vol2 de @LeddHQ ficou linda!
+Pra compensar o atraso do Ep. 07 tô pensando em liberar um preview das páginas coloridas do Vol. 2. Q ces acham?
+RT @AzraelLima: E amanhã tem @Video_Quest na pré estreia de Os Vingadores ( com @Fabio_O_Urso @LeoKitsune @graveheart )
+
+
+goodbyebuddy 20
+Win Free Evernote Premium for the Rest of Your Life! Courtesy of Appsumo: http://t.co/d5t5GhRl *ad
+spread the word: buddy is back! http://t.co/4rWDZ3V
+Check out my ad spots over at @buysellads http://t.co/YoHdmS8
+@DavisonGaitan try it. now. do it. come on on. do it. now. :P let me know if you have any more troubles.
+@garthbiggs yeah, some hickups. got it sorted out. mind a second try?
+@McGester some issues, back to operating normal. feedback welcome!
+@sati5000 could you try it and see if it works for you now?
+hey folks, I'm back! told you... :P
+@joostgeurtsen I would suggest @goodbyebuddy ;)
+RT @swampynomo: Followers are dropping like flies and I have to wait 24 hours to use GoodbyeBuddy again. Don't they know I have #TigerBl ...
+@emilyvolman now working for you? :)
+@FrancesBradleys hey frances, we did not receive any payment. Are you sure you paid?
+all advertisers: place ads on goodbyebuddy.com at http://bit.ly/f08lm7
+Und alle so: Pöff!
+i wish you all a happy new year! peng papeng peng phiuw!
+@Jens_WST are you super buddy subscriber?
+@grattonboy not true!
+@Bixu_Lezadu give it some time. should be fine within the next 24 hours :)
+kinda funny: "goodbyebuddy.com is visited more frequently by users who are in the age range 35-44, [...] and browse this site from work."
+@iamchicpea hm, I'm looking into it, sorry.
+
+
+pedro_leite 20
+@luizelacerda @nanalyra hahahaha essa desculpa cola mais não!
+@nanalyra a tua foto toda sensual e eu sou safado.
+@marcelonac se eu pudesse escolher eu pegaria o hardware do N9 com o windows phone. Eu to esperando o 900 lançar pra testar!
+@nanalyra estudando? ahan.
+@marcelonac Eu quero! Foi o 900?
+@nanalyra tanta coisa pra fazer que esqueci de responder. Então, eu não recebi nenhum email com isso não. Tá com cara de boato.
+@nanalyra é isso que dá ficar assistindo bbb. Já fica esperando sensacionalismo. E gordo sarado é foda, bate depois assopra :P
+@nanalyra meu iPhone eu comprei com meu dinheiro. Lê a notícia direito! Mas quando eu tiver no trabalho eu checo isso.
+@nanalyra não sei porque ainda não chequei meu email hahaha
+@mistergiuntoli thanks for the pic man. Also, keep up the good work on Grimm. http://t.co/jxaEYSbt
+@faccenda @nanalyra @luizelacerda Eu lembro de Java, mas nunca gostei depois que comecei a usar C#. E desde o 5o periodo que não uso :P
+@luizelacerda os domingos da gente! :) E é claro que tem essa também, mas tu já sabes: http://t.co/nrpRI2Tq
+2°C at #seattle #pike #market  @ waterfront viewpoint http://t.co/OQ2C8PVX
+@nanalyra @luizelacerda eu falo bem por trás do povo, mas nao em vias públicas. Só assim ng sabe se eh verdade muahahahahahaha
+@nanalyra @luizelacerda demorei pra responder pq esses dias tao pesadinhos aqui ;(
+@luizelacerda @nanalyra vi vcs ai falando de mim! Nancy admitindo saudades de mim publicamente :O e Luka, to sempre orgulhoso :)
+@luizelacerda eu acordei com o email desse teu tweet. Fiquei tão feliz <3
+Petting at Bonair winery  @ Bonair Winery http://t.co/dXSwkkQx
+Maison de Padgett #winery  @ Maison de Padgett http://t.co/lHoHor6Y
+Just completed a 5.07 km run - Barely made it! http://t.co/GhyVcbGQ #RunKeeper
+
+
+addictgirls 20
+Photo: Calvin para animar a volta do feriado. http://t.co/UCfPIa2U
+http://t.co/XiSMrWom Blogueiras da Croácia viram modelos em anúnicio da Diesel - apoio @coquelux. via @social_fashion_
+@matheussCNC dele nem sequer ter ido ao nascimento da filha
+@matheussCNC Mt show. Bombão na cara dele o/
+@matheussCNC white é um filho de uma égua manca.
+@matheussCNC Qro lutar buááa
+@matheussCNC Boxe o/
+RT @ElisamaRL: Gosta de cinema? Acesse http://t.co/jG5pul9i
+Tem um post de Espelho, Espelho Meu, sobre figurino e tudo.
+@addictgirls
+@matheussCNC hey
+http://t.co/t6uZT9aE A receita da elegância e da personalidade de Adele - apoio @coquelux. via @social_fashion_
+RT @ElisamaRL: Tem matéria nova no @addictgirls sobre o filme Espelho, Espelho Meu.
+http://t.co/Ljqzk5Ta Trend alert: anéis para serem usados no meio dos dedos - apoio @coquelux. via @social_fashion_
+Filme Espelho, Espelho Meu http://t.co/bk19BEC2
+Filme Espelho, Espelho Meu http://t.co/xTsGdu00
+http://t.co/HKtfYSfl Inspirações para usar varsity jacket! - apoio @coquelux. via @social_fashion_
+Photo: Adorei a bota com o vestido estampadinho, e vocês? http://t.co/0ygfd1WW
+Photo:  http://t.co/91AJrMUs
+Photo: passionedelamode: http://t.co/P3VbOH88
+
+
+rfdaf 11
+Bitcasa - Infinite Storage on Your Desktop http://t.co/2JkMytZ4 via @Bitcasa
+@OMarceloTelles Será que teremos post do Alabarda hoje?
+@leonelcaldela Um dos mistérios explicados no Guia da Trilogia será o de quem são os "6 filhos" de Kally que sempre se lembrariam dele?
+RT @jamboeditora: Pelo amor da Tormenta, me dá esse Guia da Trilogia, @jamboeditora! Siga e dê RT pra concorrer! Sorteio dia 17/02!  htt ...
+Eu sigo o @perolascom e estou concorrendo um PlayStation 3, participe vc também! Saiba como participar do sorteio > http://t.co/BRaLpyU3
+@Jeh_MMello Eita, eu já tenho faz um tempo (apesar de não usá-lo quase nunca)... Foi por acaso que eu descobri que tu tinha... Bjos!
+@jamboeditora Grande Jambô! Quando sairá o cronograma 2012? #expectativa #guiadatrilogia
+RT @jamboeditora: Quero presente no Natal da Jambô! http://t.co/AJMNAzoK . De RT e concorra! Sorteio dia  05/12 #nataljambo
+Uma garota de 15 anos c/câncer terminal fez uma lista de desejos. Um deles é virar um TT. Dê um RT #alicebucketlist: http://t.co/YPIKVich
+@cristianosmoura Good question! Depois de milênios resolvi entrar aqui pra conferir...
+@cristianosmoura @andersontenorio @danillobatista @lmdequeiroz Besteira! Soube que meu grande amigo Cipa vai fazer uma conta tb, sigam-no!
+
+
+HouseofMarleyUK 20
+@markmarkmark_ Well...If you're looking to stand out from the crowd whilst you rock your headphones...! One love.
+Hi @skemberry, thanks for getting in contact. Our products  are available at http://t.co/UitulwpX. Check em out there.
+RT @MarleyUK UK MARLEY fans: Coming soon on http://t.co/uY8le1j7 - win a @HouseofMarleyUK 'Bag of Rhythm'! http://t.co/QHPlhVqh @bobmarley
+We met Kevin Macdonald, talented director of the @MarleyUK Bob Marley Movie, check him out sporting his MARLEY cans! http://t.co/Q1fDxZtu
+We were joined by Hip-hop legend @SnoopDogg at The LA premiere of Marley Movie.Excited for it to hit the UK! http://t.co/oSRPjkfk
+Hi @Treesiepops. Thanks for getting in contact. We're more than happy to help you resolve the issue. Please email houseofmarley@kaizo.net
+Excited about the upcoming Marley movie, great words here from @VICE http://t.co/AOufUzrc
+RT @Romarley: The MARLEY movie is causing positive vibrations in advance audiences. http://t.co/WB6ThGV1
+NEW MARLEY DOCKS HAVE LAUNCHED in the UK. We're sooooooo excited!!! Check it out!!! http://t.co/GJt0Qd3p
+@lancearmstrong Cool that you saw MARLEY. The family are honouring his message by giving back through the @HouseofMarleyUK and @1loveorg.
+Hey @chelseeobrien! There's only one way to go if you want to satisfy your soul with some great sounds #MARLEYheadphones. One Love.
+@cmoran1982 We love @edsheeran. Must be loving his brit awards! But, we can't forget our roots.....#reggae. One love.
+@1love_x Hey Anna, hope the bass from your #MARLEYheadphones didn't keep you awake!
+@cmoran1982 We're glad you're enjoying your earphones. What are you listening to?
+Great to see some artistic flair from @Jack_Selvidge. Thanks for sharing!
+Like our Facebook page and have the chance to be one of the first people in the UK to WIN & own a MARLEY Bag of Rhythm http://t.co/OpnU9P0N
+Congratulations @StephenMarley1 on your Grammy win for Best Reggae Album. 1Love!
+RT @Romarley: Honored to be here with the talented Kevin McDonald #BerlinFilmFestival http://t.co/yKGlDGhL
+RT @Romarley: Arriving in style world premiere Marley Film #BerlinFilmFest http://t.co/s0D4Aqgl
+I've uploaded an @YouTube video http://t.co/MNQX3Flv DJ Brazilia shows off her MARLEY TTR headphones at CES 20
+
+
+daveszt 20
+A Fantastic Short Film in our 'Short Film Cinema' section called Lovely Monster starring @SophiaDelPizzo http://t.co/WwxhKjMP
+@matthocken @heyuguys Thanks v much. We've got some seriously awesome shorts coming up in the coming week or 2 (and hopefully beyond!)
+HeyUGuys accounts done! Most boring job of the month over and done with! Hooray!
+@CSkinner @jonlyus @Clothesonfilm @adlow76 mine are!
+RT @jonlyus: Great start to the day! RT @HeyUGuys: Video of the Day: The West Wing Cast Reunite for one more Walk and Talk http://t.co/P ...
+@FingercuffJAMIE ouch!
+@mjpascoe I quite liked that bit
+@SubstanceMovies If all else fails, i'm applying!
+RT @SubstanceMovies: We're hiring! In need of an awesome Social Media Exec for our growing team - http://t.co/RMEogvBh Please RT
+@sothcott EPIC!
+MUST WATCH: New Trailer for The Dark Knight Rises http://t.co/AsxFjVOy
+@Josh_Wilding at this rate, i agree with you. Best thing about it... it's a great film. bottom line!
+@Josh_Wilding After seeing the UK and worldwide figures, gotta be $1bn+, esp with the 3d cost element
+@JonLyus and I just did a high five over the phone! #TooCoolForSkool
+RT @HeyUGuys: Happy 100th Birthday Universal Studios + Restoration Video http://t.co/czKTQV3z
+RT @HeyUGuys: The Avengers Smashes UK Box Office Records Galore http://t.co/IoEpJ2Zk #Avengers #AvengersAssemble
+Viral campaign launches for The Dark Knight Rises - http://t.co/aSObDywj #TDKR
+@Amy_Jenkins1 Welcome!
+@Joanna_Sweeney It's cruel to make horses play Badminton anyway IMO!
+RT @HeyUGuys: Warner Bros. Announce Digital Script Download Service ‘Inside the Script’ http://t.co/ggyCHz78 <-- looks fab! @WBDigitalDist
+
+
+sp0rkbomb 20
+This is somewhat insensitive, but it's really hard to follow a talk by a stutterer. Grinds on my need for fast and compact information.
+@robospatula I wrote one of those for our UPC vuln once, want?
+@travisgoodspeed See DM; also, rscomponents should work.
+Does anyone have pointers to a good binary rewriting tool (that changes relative jmps after modifications etc)?
+“@textfiles "how does that even work?" http://t.co/luEEMC1i” Boy, would that guy be in for a CS history class if he was curious enough.
+AOSP is OSS. Baseband and Google Apps aren't, were never and'll likely never be. GApps are trivial to reverse, baseband's more interesting.
+AOSP is OSS. “@mikko @markopolojarvi So much for #Android openness- #Google refuses request for #Galaxy #Nexus Source http://t.co/fQs3EjOx”
+@sviehb Sweet, thanks!
+What's the Windows variant of objdump (for PE)? Need something as simple as objdump -d, mostly...
+Things I love reading in the morning: A high-priority critical bug report…which turns out to be wrong.
+RT @7a_ "Legal and efficient web app testing without permission" slides, demos, etc http://t.co/WYIdwqGf <- L00K! Some fun tricks in there.
+@7a_ Yep, either via a "non-bill" (like in restaurants) or without VAT. Neither are options my customers or I would choose.
+I should add that I've been working 2/3 of my jobs without pay for 3 months bc the ministry of finance took so long to get me a VAT number.
+After 3 months of not generating revenue, my company finally does. Re @_snagg´s RT'd article: BS if your personal liquidity depends on it. 
+RT @_snagg: speaking of bubbles.. it's crazy how people can advocate such things: http://t.co/pGkVeiqR
+RT @drbrain: TIL: Neither Safari nor Chrome nor Firefox care about your gzip footer. CRC mismatch? Invalid length? No problem!
+One of these days, some idiot who doesn't grok the webs is gonna cause a class A fuckstorm on Twitter, with gore/shock-flooded hashtags.
+Could someone please put up the warning labels on the internet? (parents: your job to read them to your children)
+@DilksOut @redfivetwo Oooh, Internet Tough Boys to the rescue! We haven't had that for a while.
+@redfivetwo Hahaha, at this rate of idiocy, someone's gonna post rape vids on the hashtag soon. Have fun with that ;)
+
+
+SENNAmovie 20
+Over 3,000 interactions today on http://t.co/ifxlS1ro - all remembering Ayrton Senna 18 years on #restinpeace
+RT @asifkapadia: Thinking of Ayrton Senna today, 1st May. Was an honour to make @SENNAmovie with @mpandey69 & team. A life changing  ...
+RT @5LiveF1: If you ever needed a reason to watch @SENNAmovie to celebrate the life of Ayrton then watch it today. 18 years since the wo ...
+RT @paulatkinsonuk: On this day in history #F1 lost a legend at Imola, Ayrton Senna - if you haven't already, today is the day to watch  ...
+An interesting comparison of @SENNAmovie with the new @MARLEYuk movie by @DocGeeks today: http://t.co/TqTVfZIM #SENNA #MARLEY #LEGENDS
+RT @SCREEN17cinema: Q&A session with Gregers Sall, editor of @SENNAmovie, following our screening next week on 19th April - http://t.co/ ...
+@SENNAmovie has been shortlisted for Best Film in the South Bank Sky Arts Awards on 1 May http://t.co/zGgOTbfO #SENNA #F1
+Nice mention from @DocGeeks about our FB campaign! http://t.co/EgzyKcmV
+For those yet to see the @Popbangcolour @SENNAmovie artwork, here it is! @achrisevans @vickiisted http://t.co/lq0B6Gfs
+UK FANS: @Popbangcolour is creating live at 7pm on BBC1 #TheOneShow with @achrisevans and his amazing @SENNAmovie artwork will be featured!
+RT @ESPN_Films: RT @RedHourBen "Just watched "SENNA". Great documentary." We're premiering @SENNAmovie at 10 pm on Sunday, July 29 after ...
+RT @RedHourBen: Just watched "SENNA". Great documentary.
+RT @overdrivef1: Quick heads up for UK viewers to catch @SENNAmovie tomorrow evening at 9pm on Sky Atlantic. You need Sky but don't need ...
+RT @robbeddington: Don't miss #SennaWatch, a simultaneous watch & tweet-up of the incredible @SENNAmovie. Next event: Sunday 29 Apri ...
+Dear SENNA fans: Let's raise a glass to Ayrton tomorrow to mark what would have been his 52nd Birthday. "Tim-tim" Ayrton ...
+RT @FilmForward: Amazingly hospitable and energetic crowd waiting for @AsifKapadia to screen @SennaMovie at @AmityUni in Delhi http://t. ...
+RT @F1US: @SENNAmovie: @F1Photo's shot of @BSenna -amazing likeness he has to his uncle in this shot: http://t.co/aRrcdgNB #ausgp #SPEED ...
+Hi @Carkultur - we hear that  the Blu-ray for @SENNAmovie is released in the US in July - greetings from England
+RT @FilmForward: Go @SennaMovie - so many @Whistling_Woods film students showed up for the @FilmForward screening we had to move it to t ...
+@SENNAmovie has been short-listed for no less than 3 awards in the FOCAL awards for use of archive footage -  http://t.co/cFfMt35c #SENNA
+
+
+carnitos 20
+I'm at Hot Mama's Pizza (Seattle, WA) [pic]: http://t.co/NIzwslKo
+Dear AT&T, 4G my a**!
+I'm at Pazzo's on Eastlake (Seattle, WA) [pic]: http://t.co/hJOlafTM
+I'm at Eastlake Market (Seattle, WA) http://t.co/rgv90hOl
+Overheard at yogurtland "oh look, dolsay day leckey" I want to say it's dooolsay de leh-chay dummy
+I'm at Target (Seattle, WA) w/ 3 others http://t.co/v4befSqE
+I'm at Giannoni's (Seattle, WA) http://t.co/thtTJyJw
+I'm at Bed Bath & Beyond (Seattle, WA) http://t.co/HyA2ibPx
+I'm at Madison Pub (Seattle, WA) w/ 4 others http://t.co/xydQ9tJw
+I'm at Jamjuree (Seattle, WA) http://t.co/DgApwayk
+I'm at Safeway (Seattle, WA) http://t.co/utJEUSka
+I'm at Madison Pub (Seattle, WA) http://t.co/TAAJceDP
+I'm at Pazzo's on Eastlake (Seattle, WA) [pic]: http://t.co/q09TZV3H
+I'm at Amante Pizza (Seattle, WA) http://t.co/LRYVm3mn
+I'm at Cal Anderson Park (Seattle, WA) w/ 6 others [pic]: http://t.co/Wrg7FcdB
+I almost drowned trying to netti-pot myself.
+I'm at Pazzo's on Eastlake (Seattle, WA) http://t.co/JROhxlgP
+@JakobHero that's how LA is too. In Seattle, 65 degrees & people flood the parks to sunbathe. I'm not joking either
+64 degrees & everyone is wearing shorts. LOL. I love Seattle.
+I'm at RAM Restaurant & Brewery w/ @romanperez http://t.co/ulO0yd1v
+
+
+maribritolima 20
+I'm at Select (Recife, PE) w/ 2 others http://t.co/y8oJHEq9
+c/c Agnieszka Ekert (@ Spettus Steak House) http://t.co/q1x1uJTp
+I'm at Deltaexpresso (Recife, PE) http://t.co/MyRP2Nst
+@daywV HAHAHAHAHAHA, acabei de ver. Morri de rir. Tu, como sempre, alegrando os meus dias com essas escrotices que só tu sabes fazer.
+RT @daywV: @maribritolima de novo esse papo?
+Mas minha gente, como pude passar tanto tempo longe daqui?
+I'm at Home, sweet cama http://t.co/OEKcGx0W
+Que jogo teeeenso! (@ Fiteiro w/ 4 others) http://t.co/H50vhGzW
+I'm at Quiosque Chopp Brahma (Recife, PE) http://t.co/I15KCYhy
+I'm at Entre Amigos Restaurante e Bar (Recife, PE) w/ 7 others http://t.co/YgFNXfoy
+I'm at Camarim VIP Premium - Jaqueira (Recife, PE) http://t.co/FGBjplZH
+Falei tanto que tava cuidando de todo mundo, que agora quem se ferrou fui eu. Huehaiheaihsiea http://t.co/MpOqmTVA
+I'm at Laça Burguer (Recife, PE) w/ 4 others http://t.co/btNY42Ef
+Cada um tem o Paul McCartney que merece... (@ Real Hospital Português w/ 2 others) http://t.co/ws4XVPM6
+I'm at Churrascaria Sal e Brasa (Recife, PE) w/ 4 others http://t.co/lPBdw7VH
+Eu deveria ser prefeita de todos os hospitais do Recife... Pq, né? Hehehe (@ Hospital Santa Joana) http://t.co/XibGf0Gn
+I'm at Deltaexpresso (Recife, PE) http://t.co/JrQB2hn8
+Pra variar... (@ Hospital Alfa w/ 2 others) http://t.co/QFnZII8I
+Ou vai ou racha. Hahaha (@ Defensoria Pública da União) http://t.co/uq3pMv8r
+I'm at Konimix (Recife, PE) http://t.co/Q5OWk2b7
+
+
+digg_updates 20
+Sensitive beasts http://t.co/Ts1L6ZtR
+Finally, a Shark With a Laser http://t.co/G01r0sL0
+Completely insane Avengers coloring book asks kids to enter the maze in Hulk's pants http://t.co/qQkDS1PI
+Never seen one like this...(pic) http://t.co/g8weH0TO
+New Blood Test Could Predict Breast Cancer Years in Advance http://t.co/tQx9EqcM
+How to Avoid Getting Unfriended on Facebook http://t.co/pwCDfbP6
+Why the Urge to Pee Ruins Sleep http://t.co/Iazq809z
+How can you spot a cannabis farm in your street? http://t.co/TRGgeU68
+"Free babysitting": how would-be pedophiles use Craigslist—and how they get caught http://t.co/uP1qEg8M
+Is Global Warming Causing More Home Runs in Baseball? http://t.co/MwXs80Nl
+Probably The Best Commercial Of The Year http://t.co/ckXMoVGh
+Facebook 'Likes' Could Get You Fired http://t.co/gR0ArRyC
+Why Men Buy Sex http://t.co/ZlMfMfSG
+The Only Anonymous Photo to Ever Win the Pulitzer Prize http://t.co/mhi1mtKE
+Keeping Secrets Weighs You Down, Literally http://t.co/JRHcvQvu
+Could a single pill save your marriage? http://t.co/fzSd9vdv
+The villages where everyone runs http://t.co/JbUAwGFv
+Flashback Malware Exposes Big Gaps in Apple Security Response http://t.co/UxjVf6kb
+Chewing gum can mess with your mind http://t.co/KzXSXDYF
+Sweet revenge: Dentist pulls ALL of ex-boyfriend’s teeth out after getting dumped http://t.co/ZEzPptBm
+
+
+socialbakers 20
+3 hours to start! Don't miss our live webinar packed with great content and some Secrets to Maximize Social Media ROI  http://t.co/sjXkbuMa
+Top news: Find out now how significant your industry is on #Facebook http://t.co/c1V5E7AM #smm
+[LIVE WEBINAR] Get ready to uncover the "Secrets to Maximizing Social Media ROI"  Tomorrow May 2nd @ 11AM PT & @ 4PMCET http://t.co/sjXkbuMa
+5 Tips To Make Your Beauty Brand Stand Out http://t.co/n5uXhtHR #smm #Facebook
+Have you already signed-up for the best social media webinar? Wed, May 2nd: The Secrets to Maximizing Social Media ROI http://t.co/sjXkbuMa
+10 Facebook global industries ranked by average Engagement Rate http://t.co/c1V5E7AM Check out the biggest social media report ever! #smm
+Finally here! The Biggest Global Social Media Report on Facebook Industries http://t.co/c1V5E7AM Report available for download #smm
+Check out photos from Socialbakers Breakfast Briefing http://t.co/QFbQmDoU If you missed the event, join live webinar: http://t.co/sjXkbuMa
+Live Webinar: "The Secrets to Maximizing Social Media ROI"on Wednesday, May 2, 2012 at 11:00 AM PDT or at 4:00 PM CEST http://t.co/nYtEvPvi
+We Are Proud To Be Facebook´s Preferred Marketing Developer http://t.co/BNlA4eZi
+Webinar: Join us to discover the secrets to maximizing social media ROI. With Katrina Wong, Socialbakers’ VP Marketing http://t.co/sjXkbuMa
+Facebook´s Milestone: 901 Million Users. When will be the next one? http://t.co/zpj4Mzn8
+"Socialbakers (Analytics PRO) aims to elevate Facebook marketing" wrote @brandchannelhub http://t.co/NbGmrIXk
+What are the 5 largest Facebook timeline mistakes? http://t.co/j44LwVNv #smm
+Fist Quarterly Social Media Report on #Facebook Global Industries: Today's focus: Ecommerce vs. FMCG Brands on Facebook http://t.co/razIjiU8
+Check Out The Fastest Growing Brands Of The Week: on #Facebook #Twitter and #YouTube http://t.co/b7uYXW0D
+Article of the week: 5 Biggest Facebook Timeline Mistakes - Socialbakers http://t.co/sJEr08k7
+LVMH #smtip: brands start with a teaser that leads to a longer story accompanied by an image. http://t.co/j1VRhBs3 #socialmedia
+Instagram And Facebook: The Recipe For A Higher Engagement Rate http://t.co/NUXWYgWD
+LVMH Managing Its Brands on Facebook: “…it makes sense for brands to want to engage there” via @wsj http://t.co/5QlGo1Cr #AnalyticsPRO
+
+
+janrezab 20
+@marcusnelson Well keep it in mind :)
+@marcusnelson Good luck. Let us know if you need help from @socialbakers
+Finally here! The Biggest Global Social Media Report on Facebook Industries - Socialbakers http://t.co/kWCvi562
+@TinaCook What about @socialbakers? :)
+Fell in love with Shinkanzen Japanese trains... Other than France, UK, Netherlands, this is pretty much unsolved in Europe & US.
+@Hnedle same as European sushi :)
+@cappellmeister Well, its just very very very different sushi... :) The food in Kyoto is nothing like any sushi I ate before.
+Moved to Kyoto for tonight, staying in a Ryokan called Yachiyo: http://t.co/jcgGHlFJ. Sleeping on the floor on futons. Nice!
+Who thought the European Sushi is traditional Japanese cuisine is wrong... It doesn't have much to do with it :) Wow...
+Sony showrooms view today, seems like a company that has creativity, but lacks creating the "Top" product in every category.More in article.
+@nsuchaud @socialbakersFR :)
+The toilet just talked to me and singed me a song!!? #tokyotrip
+Weather in Tokyo. LOL, icons like a game :) http://t.co/53tr4epr
+Unsocial Olympic Games? Check out terms and conditions, section 19.6.3: http://t.co/dUE7V6aB
+How Often Should You Post On Your Wall To Engage Fans? - Socialbakers http://t.co/hnCpkqI0
+@JohnSaydam Hey John, flight was AWESOME, the only big issue was the 43 minute (!) wait for the chauffeur...
+Arrived in Tokyo! Tips? :)
+Google Apps Mail sent an Out of office to a Google+ notification = Undeliverable email status. #Googleplus #fail
+Socialbakers Aims to Elevate Facebook Marketing http://t.co/qDgZTDI8
+@maxniederhofer Lets meet up when I get there in a few weeks, Aman is also writing to meet/catch up :) Lets grab a coffee!
+
+
+juliocesarfort 20
+RT @jweyrich: Not just the pirates: Brazilian rights holders indicted for ripping off artists - http://t.co/Q2Kwpaza (via @arstechnica)
+RT @ioerror: It looks like Public Intelligence's document submission server was owned or something went very wrong: https://t.co/QNR3AjcX
+RT @evdokimovds: pinpy - Python bindings for PINtool (http://t.co/CGT56lyU) #DBI
+The Pirate Bay must be blocked by UK ISPs, court rules: http://t.co/vK0spjh
+@nicowaisman Argentina is the country of security frameworks and exploit packs! \o/
+RT @nickpickles: The secret Olympics: sharing photos on social media not allowed during London 2012: http://t.co/PTpobsCc
+@MarioVilas looks like it's Welsh or Gaelic, but i would stick with Welsh first.
+@spookerlabs but you just don't submit to AlligatorCon, do you?
+RT @mateusaraujo: Source code of the Apollo/Gemini spacecrafts http://t.co/trhNBXow #cool
+@nicowaisman and it works! http://t.co/4w18Hhc
+@luisfdandrade "1984" de George Orwell ou "Testify" do Rage Against The Machine? :)
+RT @malerisch: [Advisory] #Oracle GlassFish Server Arbitrary WAR Archive File Upload via CSRF http://t.co/gFu9hOzr - CVE 2012-5050 just  ...
+RT @newsycombinator: Spain Is Doomed. http://t.co/Aq4wr8CZ
+RT @increpare: Oh, cool! A bunch of demoscene code made public domain (kkrieger engine + some other stuff) https://t.co/f2LdPdAp
+Phrack is back! Phrack 68 finally released: http://t.co/QOOqbab
+RT @NunoTreez: Finding Goatse: The Mystery Man Behind the Most Disturbing Internet Meme in History http://t.co/4ZhVLBJM (safe for work)
+pornoscanned for the first time of my life, courtesy of Moscow Domodedovo airport security. i honestly hope the operator liked what she saw.
+RT @dkberman: Remember this day. 551-day-old Instagram is worth $1 billion. 116-year-old New York Times Co.: $967 million.
+Green Mango hostel in Moscow is alright but fucking disorganized.
+RT @Ivanlef0u: 'From now on, p68 could be released at any moment.' http://t.co/R8M5BZeB
+
+
+perolascom 20
+nego no tuiter tá mais loko que o marido da Tulla Luana dançando kuduro
+@izzynobre sick a parada que aconteceu contigo :/ boa sorte ae na recuperação.
+Como tem gente ainda que cai em golpe da pirâmide? #MyTravelAndCash
+Acidente de trânsito converte ateu em crente! - http://t.co/ci1MJQkN
+@cauemoura Acho que se você abrir uma casa de Poker pode virar mais negócio a parada.
+Jogador do Comercial do Paraguay chama Massacote, te lembra alguma coisa?
+Ahhhh como eu gosto desse esporte! - http://t.co/sArFzaPa
+RT @Navarro: O bem-sucedido fala de seus fracassos com o mesmo entusiasmo que narra seu sucesso. Um não existe sem outro. Óbvio? Sim. Si ...
+Quer ganhar R$ 80,00 reais + uma dentadura hieahiehiae??? http://t.co/opqpdAi6
+RT @naosalvo: MUlher tantão acaba com relacionamento http://t.co/Hc4qnVAJ HUAHUAHUA tóma babão
+Quem lembra do Jacques? O Jason brasileiro! - http://t.co/QKxQcbXy
+Empresa reponde cliente LIKE A BOSS no Reclame Aqui -> http://t.co/SH3T1Jle
+Conheça o Gordo do Trem - O melhor vendedor de chicletes do mundo - http://t.co/kgyB9QtL
+Galera, o sorteio da almofada aqui no twitter é daqui 2 dias, participa aeee! - http://t.co/hSur9HoL
+@benilho bidê ibagens!
+Você vai ficar 2 segundos com cara de WTF? - http://t.co/tzDGZBB4
+Acho que vou mudar de profissão... - http://t.co/jMkuLAPM
+Galera, participem do sorteio aqui no twitter pra ganhar uma almofada daóra véi -> http://t.co/hSur9HoL
+@pecesiqueira seguida de mezanino.
+Pros meus milhões de seguidores? lol @soulerdo: @perolascom  ,, divulga ai ? http://t.co/tGbmeAqW
+
+
+diggapi 20
+@nhaygaurav those are parameters/arguments to the PHP HTTP_OAuth_Consumer library, an oauth library.  Not query parameters.
+@nhaygaurav key & secret are not oauth parameters.  Strongly recommend you use an oauth library see http://t.co/zls0luba  Good luck
+@nhaygaurav we don't have java examples but it needs standard OAuth 1.0.1 request signing, there must be a library for it.
+@sydience just released the APIs to do dig story undigg/unbury http://t.co/59nGfu2h
+Digg API update for April 2012 - new APIs story unbury/undigg and user get followers/following. Details and docs at http://t.co/QCynATm0
+@anysense1 API 1.0 is way deprecated.  Which 1.0 request returns followers? (friends = followers these days)  I'll add a ticket
+RT @digg: Digg Mobile is now in a relationship with Digg Social Reader http://t.co/gSBtLbpP
+@sydience you are correct, we haven't exposed that as an API right now (although note the submitted can never undid).  Bug filed.
+@richardm_ we have fixed the issue from the weekend so there should not be diggs older than that.  Details via http://t.co/tvaOhhKm please?
+@BrodieMacleod this should be fixed now
+@enricobianco this should be fixed now
+We had a system problem over the last few days which we've fixed so the main and streaming APIs should be serving fresh data now
+Digg API update for February 2012 https://t.co/2xfFXt0B
+@demotivirajSe hey we updated the digg widgets with the correct 2-arg replace(/+/g, '%2b') as you reported in Jan. Thanks!
+@enricobianco probably not. send us a snippet of what you see via http://t.co/nbSTpqYz
+@SteveoMorris the problem is fixed and everything is streaming again.  Thanks for the report.
+@SteveoMorris we will take a look
+Just rolled out a fix to the http://t.co/2SaXS0hz mobile site: Load More now works across all Top News, My News and Newsrooms storylists
+RT @hootsuite: Oh 'Appy Day! @HootSuite_Apps adds new tools: @Digg @TrendSpottr @InboxQ plus info on new Engagement API http://t.co/KydRF1nu
+@abdel_bolanos there is no API available to submit stories.  It would require a lot of thought and protection from spam and abuse.
+
+
+webfrase 20
+"A confiança é um ato de fé, e esta dispensa raciocínio." - Carlos Drummond de Andrade
+"Ninguém é igual a ninguém. Todo o ser humano é um estranho ímpar." - Carlos Drummond de Andrade
+"A paz do coração é o paraíso dos homens." - Platão
+"Em tempo de paz convém ao homem serenidade e humildade; mas quando estoura a guerra deve agir como um tigre!" - William Shakespeare
+"A música é celeste, de natureza divina e de tal beleza que encanta a alma e a eleva acima da sua condição." - Aristóteles
+"O mestre disse: Por natureza, os homens são próximos; a educação é que os afasta." - Confúcio
+"Trate as pessoas como se elas fossem o que poderiam ser e você as ajudará a se tornarem aquilo que elas são capazes de ser." - Goethe
+"O homem faz o mal, porque não sabe o que é o bem." - Sócrates
+"É quando pensamos conduzir que geralmente somos conduzidos." - Lord Byron
+"O tempo é um ponto de vista. Velho é quem é um dia mais velho que a gente." - Mário Quintana
+"Raramente pensamos no que temos, mas sempre no que nos falta." - Arthur Schopenhauer
+"Se os homens fossem constantes seriam perfeitos." - William Shakespeare
+"A esperança é um empréstimo que se pede à felicidade." - Joseph Joubert
+"Todos nós nascemos loucos. Alguns permanecem." - Samuel Beckett
+"Amar é sentir na felicidade do outro a própria felicidade." - Gottfried Leibnitz
+"Se um dia fecharem-lhe as portas da vida, pule a janela." - Augusto Cury
+"Seria preciso decretar, urgentemente, que o preconceito é doença, a infelicidade é proibida, e a burrice é crime inafiançável." - Lya Luft
+"Nada é pequeno demais para uma criatura tão pequena quanto o homem." - Samuel Johnson
+"A tragédia do homem é o que morre dentro dele enquanto ele ainda está vivo." - Albert Schweitzer
+"Aquele que tem êxito em corrigir o seu semelhante será recompensado pelas boas obras que ele realizar." - Textos Judaicos
+
+
+teocg 4
+RT @FRIENDSHlP: Friendship is the comfort that comes from knowing that even when you feel all alone, you aren't
+@ayeitsarlyn @Fashoitscasey got that right girl :) hahahahahaha
+@Fashoitscasey hahaha thanks baby i will now stalk you via tweeter also not just fb hahha, this goes for you, Ate Arlyn and ate justine
+http://twitpic.com/2wza8 -
+
+
